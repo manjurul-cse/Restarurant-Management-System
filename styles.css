@@ -1,0 +1,271 @@
+body{
+	margin:0px; 
+	padding:0px;
+    background:#414141;
+}
+#topContentWrap{
+	width:95%; 
+	margin:0px; 
+	padding:0px; 
+	float:left; 
+	margin-left:20px;
+	
+	}
+#topContent{
+	width:928px;
+	 margin:0 auto; 
+	 padding:0px;
+	 }
+#aboutPanel{
+	width:216px;
+    height:715px; 
+    margin:0px; 
+	padding:0px; 
+	float:left;
+	margin-right:10px;
+	background-image: url(images/chins.jpg);
+	
+	}
+	
+
+#home{
+	width:47px; 
+	height:110px; 
+	margin:0px; 
+	padding:0 0 0 169px; 
+	float:left;
+	}
+	#box{
+		width:216px;
+		height:160px;
+		margin:0px;
+		margin-top:148px;
+		background-image:url(images/chilli-paneer.jpg);
+	}	
+	
+#home a{
+	width:47px; 
+	height:36px;
+	 margin:0px; 
+	 padding:56px 0 0 0;
+	  float:left; 
+	  font-family:Arial; 
+	  font-size:12px; 
+	  font-weight:bold;
+	   color:#646464; 
+	   line-height:13px; 
+	   text-align:center; 
+	   text-decoration:none;
+	    background:url(images/homeBg.gif) no-repeat;
+		}
+#home a:hover{
+	height:36px; 
+	padding:74px 0 0 0; 
+	background:url(images/homeBg.gif) no-repeat -48px 0;
+	}
+	#aboutPanel h2{
+	width:170px; 
+	margin:200px 0 0 0;
+	 padding:0 0 0 24px; 
+	 float:left; 
+	 font-family:Arial;
+	  font-size:26px;
+	   color:#FFFFFF; 
+	   line-height:30px; 
+	   font-weight:normal;
+	   }
+.vlinks {
+	position:relative;
+    text-align: center;
+}
+
+#aboutPanel h3{
+	width:170px; 
+	margin:8px 0 0 0; 
+	padding:0 0 0 24px;
+	 float:left; 
+	 font-family:Arial;
+	  font-size:12px;
+	   color:#ffe996; l
+	   ine-height:19px; 
+	   font-weight:bold;
+	   }
+#aboutPanel p{
+	width:170px; 
+	margin:20px 0 0 0;
+	 padding:0 0 0 24px; 
+	 float:left; 
+	 font-family:Arial; 
+	 font-size:12px; 
+	 color:#f8d85e;
+	  line-height:19px;
+	  }
+#aboutPanel p a{
+	color:#f8d85e;
+	 background:#9f3105; 
+	 text-decoration:none;}
+	 
+#aboutPanel p a:hover{
+	background:#812a08;
+	}
+#aboutPanel .read{
+	width:62px;
+	 height:23px; 
+	 margin:0px;
+	  padding:0 0 0 131px; 
+	  float:left;
+	  }
+#aboutPanel .read a{
+	width:62px; 
+	height:23px;
+	 margin:0px; 
+	 padding:0px;
+	  float:left; 
+	  font-family:Arial;
+	   font-size:11px;
+	    color:#d9d9d9; 
+		line-height:20px; 
+		text-align:center;
+		 text-decoration:none;
+		  background:url(images/buttons.jpg) no-repeat;
+		  }
+#aboutPanel .read a:hover{color:#cd4007}
+#eventPanel{
+	width:216px; 
+	height:715px; 
+	margin:0px; 
+	padding:0px;
+	 float:left;
+	 margin-right:10px;
+	  border-left:#f3f1d2 solid 1px;
+	   background:#9fb31a url(images/globalpic.jpg) no-repeat -294px -494px}
+	  
+	  
+	  #aboutPanel1{
+	width:216px;
+    height:715px; 
+    margin:0px; 
+	padding:0px; 
+	float:left;
+	margin-right:10px;
+	background-image: url(images/bangla.jpg);
+	
+	}
+	
+
+
+	#aboutPanel1 h2{
+	width:170px; 
+	margin:200px 0 0 0;
+	 padding:0 0 0 24px; 
+	 float:left; 
+	 font-family:Arial;
+	  font-size:26px;
+	   color:#FFFFFF; 
+	   line-height:30px; 
+	   font-weight:normal;
+	   }
+
+#aboutPanel1 h3{
+	width:170px; 
+	margin:8px 0 0 0; 
+	padding:0 0 0 24px;
+	 float:left; 
+	 font-family:Arial;
+	  font-size:12px;
+	   color:#ffe996; l
+	   ine-height:19px; 
+	   font-weight:bold;
+	   }
+#aboutPanel1 p{
+	width:170px; 
+	margin:20px 0 0 0;
+	 padding:0 0 0 24px; 
+	 float:left; 
+	 font-family:Arial; 
+	 font-size:12px; 
+	 color:#f8d85e;
+	  line-height:19px;
+	  }
+#aboutPanel1 p a{
+	color:#f8d85e;
+	 background:#9f3105; 
+	 text-decoration:none;}
+	 
+#aboutPanel1 p a:hover{
+	background:#812a08;
+	}
+#aboutPanel1 .read{
+	width:62px;
+	 height:23px; 
+	 margin:0px;
+	  padding:0 0 0 131px; 
+	  float:left;
+	  }
+#aboutPanel1 .read a{
+	width:62px; 
+	height:23px;
+	 margin:0px; 
+	 padding:0px;
+	  float:left; 
+	  font-family:Arial;
+	   font-size:11px;
+	    color:#d9d9d9; 
+		line-height:20px; 
+		text-align:center;
+		 text-decoration:none;
+		  background:url(images/buttons.jpg) no-repeat;
+		  }
+#aboutPanel1 .read a:hover{color:#cd4007}
+ 
+	   
+#about{width:47px; height:110px; margin:0px; padding:0 0 0 169px; float:left}
+#about a{width:47px; height:36px; margin:0px; padding:56px 0 0 0; float:left; font-family:Arial; font-size:12px; font-weight:bold; color:#646464; line-height:13px; text-align:center; text-decoration:none; background:url(images/about.gif) no-repeat}
+#about a:hover{height:36px; padding:74px 0 0 0; background:url(images/about.gif) no-repeat -48px 0}
+#eventPanel h2{width:170px; margin:199px 0 0 0; padding:0 0 0 24px; float:left; font-family:Arial; font-size:26px; color:#FFFFFF; line-height:30px; font-weight:normal}
+#eventPanel h3{width:170px; margin:8px 0 0 0; padding:0 0 0 24px; float:left; font-family:Arial; font-size:12px; color:#ffe996; line-height:19px; font-weight:bold}
+#eventPanel ul{width:170px; margin:8px 0 0 0; padding:0 0 0 24px; float:left; display:block}
+#eventPanel ul li{width:170px; margin:3px 0 0 0; padding:0 0 14px 0; float:left; display:block}
+#eventPanel ul li h2{width:170px; margin:0px; padding:0px; float:left; font-family:Arial; font-size:12px; color:#ffffff; line-height:14px; font-weight:bold}
+#eventPanel ul li p{width:170px; margin:5px 0 0 0; padding:0px; float:left; font-family:Arial; font-size:12px; color:#f2ff9a; line-height:19px}
+#eventPanel ul li p a{font-size:12px; color:#f2ff9a; float:none; background:#75850e}
+#eventPanel ul li p a:hover{color:#f2ff9a; background:#525d08}
+#eventPanel ul li a{width:62px; height:23px; margin:14px 0 0 0; padding:0px; float:right; font-family:Arial; font-size:11px; color:#d9d9d9; line-height:20px; text-align:center; text-decoration:none; background:url(images/buttons.jpg) no-repeat -62px 0}
+#eventPanel ul li a:hover{color:#9fb31a}
+
+#eventPanel1{
+	width:216px; 
+	height:715px; 
+	margin:0px; 
+	padding:0px;
+	 float:left;
+	 margin-right:10px;
+	  border-left:#f3f1d2 solid 1px;
+	   background:#9fb31a url(images/globalpic.jpg) no-repeat -294px -494px}
+	     
+#eventPanel1 h2{width:170px; margin:199px 0 0 0; padding:0 0 0 24px; float:left; font-family:Arial; font-size:26px; color:#FFFFFF; line-height:30px; font-weight:normal}
+#eventPanel1 h3{width:170px; margin:8px 0 0 0; padding:0 0 0 24px; float:left; font-family:Arial; font-size:12px; color:#ffe996; line-height:19px; font-weight:bold}
+#eventPanel1 ul{width:170px; margin:8px 0 0 0; padding:0 0 0 24px; float:left; display:block}
+#eventPanel1 ul li{width:170px; margin:3px 0 0 0; padding:0 0 14px 0; float:left; display:block}
+#eventPanel1 ul li h2{width:170px; margin:0px; padding:0px; float:left; font-family:Arial; font-size:12px; color:#ffffff; line-height:14px; font-weight:bold}
+#eventPanel1 ul li p{width:170px; margin:5px 0 0 0; padding:0px; float:left; font-family:Arial; font-size:12px; color:#f2ff9a; line-height:19px}
+#eventPanel1 ul li p a{font-size:12px; color:#f2ff9a; float:none; background:#75850e}
+#eventPanel1 ul li p a:hover{color:#f2ff9a; background:#525d08}
+#eventPanel1 ul li a{width:62px; height:23px; margin:14px 0 0 0; padding:0px; float:right; font-family:Arial; font-size:11px; color:#d9d9d9; line-height:20px; text-align:center; text-decoration:none; background:url(images/buttons.jpg) no-repeat -62px 0}
+#eventPanel1 ul li a:hover{color:#9fb31a}
+
+
+
+
+
+#footPanel{width:928px; margin:0 auto; padding:0px}
+#footNav{width:928px; margin:25px 0 0 0; padding:0px; float:left}
+#footNav ul{width:655px; margin:0 auto; padding:0px; display:block}
+#footNav ul li{width:auto; margin:0px; padding:0px; float:left; display:block}
+#footNav ul li .blank{width:auto; margin:3px 0 0 0; padding:0 7px 0 7px; float:left; font-family:Arial; font-size:11px; color:#d5d5d5; line-height:15px}
+#footNav ul li a{font-family:Arial; font-size:11px; color:#d5d5d5; line-height:15px; text-decoration:none; margin:0px; padding:0px}
+#copyright{width:928px; margin:3px 0 0 0; padding:0px; float:left; font-family:Arial; font-size:10px; color:#9fb31a; line-height:14px; text-align:center}
+
+#footPanel p{width:928px; margin:7px 0 0 0; padding:0px; float:left; font-family:Arial; font-size:12px; color:#e9e6c3; line-height:16px; font-weight:bold; text-align:center}
+#footPanel p a{color:#FFF; background:#252525; text-decoration:none}
+#content .inner_copy {border:0;color:#f00;float:left;width:50%!important;margin:-202px 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:12px}
